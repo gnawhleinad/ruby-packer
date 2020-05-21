@@ -1,0 +1,7 @@
+brew "gdbm"
+brew "libffi"
+brew "ncurses"
+brew "openssl"
+brew "readline"
+brew "libyaml"
+brew "zlib"
